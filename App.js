@@ -74,7 +74,7 @@ function App() {
 	return (
 		<div className="App">
 			<h1 className="app-name">
-         Check Weather
+         Check Weather App
 			</h1>
 			<div className="search-bar">
 				<input
